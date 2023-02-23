@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ComlimentTelegramBot": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
