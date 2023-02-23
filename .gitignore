@@ -361,3 +361,9 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/ConsoleApp8/Secrets.settings
+/ConsoleApp8/Secrets.Designer.cs
+/ConsoleApp8/App.config
+/ComlimentTelegramBot/App.config
+/ComlimentTelegramBot/Secrets.settings
+/ComlimentTelegramBot/Secrets.Designer.cs
